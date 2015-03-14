@@ -4,35 +4,34 @@ Automatically exported from code.google.com/p/quixproc
 
 *QuiXProc* is an open source implementation of *XProc*. We want QuiXProc to become a mainstream tool to process *Structured* and *Unstructured Data*, preserving high quality, high throughput, and low resources consumption.
 
-<g:plusone size="medium"></g:plusone>
 
-== The Purpose (Mission) ==
+# The Purpose (Mission) 
 
   * *Keep it standard*: we are close to implements full [http://w3.org/TR/xproc W3C XProc standard]
   * *Keep it open*: we will disclose the source with GPL
   * *Provide services*: we will provides customization, training, support and optimization services
   * *Release often*: we want our user base to have regular updates of the code base
 
-== How to ==
+# How to
 If you want to have access to *QuiXProc*:
 
-=== Lazy Way ===
+## Lazy Way
 Go to the [http://www.quixproc.com/quix/home QuiXProc website] and [http://www.quixproc.com/quix/info?type=register register] to have access to Innovimax's compilation Services. Note that the QuiXProc compilation services (QuiXProc Pro and QuiXProc Free) are improved version of QuiXProc Open.
 
-=== Detailled Way ===
+## Detailled Way 
 
 http://quixproc.googlecode.com/svn/wiki/QuiXProc.png
 
 See [Documentation#Detailled_Way]
 
-== Getting Started and Documentation ==
+# Getting Started and Documentation
 See [GettingStarted] page, to have a quick test to start
 
 You can also use the XProc Test Suite that you can find at [http://tests.xproc.org]
 
 *More details in the [Documentation] page*
 
-== Troubleshooting ==
+# Troubleshooting
 if you have a problem, first check that it's not an XML problem
 To do that open your XPL pipeline in your favorite XML tools ([http://oxygenxml.com OxygenXML] is very good for that)
 
@@ -44,7 +43,7 @@ If it's neither of those, then you certainly find a bug or a limitation, and hen
 
 For any other questions see the [FAQ]
 
-== Special thanks ==
+# Special thanks
 Our work is based on [http://norman.walsh.name/ Norman Walsh]'s work on [http://xmlcalabash.com/ XML Calabash]
 
 This work has been partly funded by [ANR] in the project [http://codex.saclay.inria.fr/ CODEX]
